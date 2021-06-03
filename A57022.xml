@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to The Bristol-Narratiev [sic]; or, A more just account of the imprisonment and death of Mr. John Thompson minister of the Gospel given upon the credit of an honest man. Wherein the malicious relation, contained in it, conerning his death, is found false and impudent.</title>
+         </titleStmt>
+         <extent>Approx. 41KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57022</idno><idno type="EEBO-CITATION">99831257</idno>
+  <idno type="VID">35720</idno>
+  <idno type="EEBO-PROQUEST">2240891319</idno>
+  
+            <idno type="STC">Wing R1068A</idno>
+            <idno type="STC">ESTC R219810</idno>
+            <idno type="PROQUEST">99831257</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831257e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35720)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2096:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to The Bristol-Narratiev [sic]; or, A more just account of the imprisonment and death of Mr. John Thompson minister of the Gospel given upon the credit of an honest man. Wherein the malicious relation, contained in it, conerning his death, is found false and impudent.</title>
+               </titleStmt>
+               <extent>15, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Bristol? :</pubPlace>
+                  <date>Printed in the year 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of printing suggested by Wing.</note>
+                  <note>"The Bristol-Narrative", 1675, is by Thomas Hobson.</note>
+                  <note>Issued with an anonymous verse elegy on John Thompson: "In obitum Domini Johannis Thompson, ..", on the two final leaves. The register is continuous with the main text.</note>
+                  <note>Reproduction of the original in Dr. Williams' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hobson, Thomas, --  Keeper of Newgate Gaol, Bristol. --  Bristol-narrative: or, A just account of the imprisonment and death of John Thompson, a conventicling-preacher there --  Early works to 1800.</term>
+               <term type="personal_name">Thompson, John, d. 1675 --  Imprisonment --  Early works to 1800.</term>
+               <term type="personal_name">Thompson, John, d. 1675 --  Death and burial --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35720:1"/>
+            <pb facs="tcp:35720:1"/>
+            <p>A REPLY TO THE Bristol-Narratiev; OR, A more just Account of the Imprisonment and Death of Mr. <hi>John Thompson</hi> Minister of the Gospel: Given upon the Credit of an honest Man.</p>
+            <p>Wherein the Malicious Relation, contained in it, concerning his Death, is found False and Impudent.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 18.17.</hi>
+               </bibl>
+               <p>He that is first in his own cause seemeth just, but his Neighbour cometh and searcheth him.</p>
+               <bibl>
+                  <hi>Jer. 23.10.</hi>
+               </bibl>
+               <p>Because of Swearing the Land mourneth.</p>
+            </q>
+            <p>Printed in the Year 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="reply">
+            <pb facs="tcp:35720:2"/>
+            <pb n="3" facs="tcp:35720:2"/>
+            <p>FOr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery and Lying, Vices so inconsistent with humane So<g ref="char:EOLhyphen"/>cieties and real Christianity, are in none more vile and de<g ref="char:EOLhyphen"/>testable than in those who alone pretend an unfeigned Zeal for the established Worship; and also by a <hi>Narrative,</hi> and that upon Oath to undeceive the Credulous and abused, <hi>Turpe est scriptori quem culpa redarguit ipsum.</hi> This has been the unhappy practice of the late publisher of a little Pamphlet, entituled <hi>the Bri<g ref="char:EOLhyphen"/>stol-Narrative,</hi> consisting of two parts, the one a <hi>Preface,</hi> designed I think to the <hi>Reader,</hi> the other an <hi>Epistle</hi> to the Bishop of that Diocese from his correspondent the Jayler: The latter is acknow<g ref="char:EOLhyphen"/>ledged to be published by his Lordships permission, and no less can be presumed of the former; for how else durst <hi>Tho. Tomkins (ex aed. Lambethanis)</hi> have licensed both unto the Press? Though the Epistle it self be most notoriously false; yet is it exceeded by the <hi>Preface,</hi> An Epitome of so much Falshood, Rancor and Im<g ref="char:EOLhyphen"/>pudence, that it were uncharitable to ascribe it to any other Author but some <hi>Informer</hi> or other of that City; [and parti<g ref="char:EOLhyphen"/>cularly a Parson] to whom Perjury and Lying have been so familiar, and are become so natural, that should they pub<g ref="char:EOLhyphen"/>lish a true account of any Dissenters (unless they could find something wherewith to asperse him of which they are yet to seek,) such an Account would have been thought a Prodi<g ref="char:EOLhyphen"/>dy. The design of that Paper is not only spightful and mali<g ref="char:EOLhyphen"/>cious, but barbarous also and inhumane. The former by casting a Reproach on Dissenters in general, as persons acted by a turbulent spirit of Phanaticism, who will by all means (right or wrong) endeavour to promote their interest, make Forgery and Lies their principal-Sanctuary, stick not to load others with Re<g ref="char:EOLhyphen"/>proaches that themselves may appear innocent, and work people into an ill-opinion of their Governours; Crimes not less impu<g ref="char:EOLhyphen"/>dently charged upon them, than justly to be abominated, and whereof their Enemies are enforced to accuse them that they may thereby excuse their own unchristian carriages towards them.</p>
+            <p>The latter by raking into and polluting the ashes of the Dead, for which mankind has ever had some kind of Veneration; (<hi>de mortuis nil nisi bonum:</hi> and into Mr. <hi>Thompsons,</hi> who was a Mir<g ref="char:EOLhyphen"/>rour of Sobriety and Moderation, a Christian, a Divine, a Scholar, and of Eminency in all; whose searching serious, solid preaching proclaimed his worth, and whose prudent and pious conversa<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:35720:3"/> did commend and crown his Preaching, on whom the most invenom'd Tongue [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> never be able to fasten a Reproach; his memory will be blessed when the name of the wicked Rot: Yet this man thus qualified, they have not only vilified and abused when living, but barbarously tra<g ref="char:EOLhyphen"/>duced when in his Grave; charging his death, Partly on his own Excess and Intemperance; <hi>That he had scarce any intermission from Eating and Drinking until he had by a Surfeit made himself unca<g ref="char:EOLhyphen"/>pable of those pleasures to which he had been accustomed:</hi> (They are the words of the <hi>Preface,</hi> and dreadfully false and malicious, which to relate is to refute, and enough to render the bold Prefacer to be loathed and abhorr'd, by all who had any knowledg of that Excellent Person, and of his Exemplary Abstinence and Sobriety.) Partly on the indiscreet conduct of those who were employ'd a<g ref="char:EOLhyphen"/>bout him, or any thing to excuse the noisomness of the Prison, and the severity used in not suffering him to be removed in or<g ref="char:EOLhyphen"/>der to his Recovery. This is charged in the Jaylers Letter, who is a single witness and very incompetent in any thing that relates to this Case, being himself a Party, and chargeable with the Pri<g ref="char:EOLhyphen"/>soners death, should it appear he perished by ill-usage. Further, to wipe off these and other Reproaches, it has been judged expe<g ref="char:EOLhyphen"/>dient that a Reply be returned, and that by giving a brief and impartial Account (having only glanc'd at the rest of his life) of the Apprehending, Imprisonment and Death of this worthy Man; which being done, let the World judg of the Integrity of that <hi>Narrative,</hi> and of the real cause of his untimely End.</p>
+         </div>
+         <div type="biography">
+            <pb n="5" facs="tcp:35720:3"/>
+            <p>Mr. <hi>John Thompson,</hi> Son to that Reverend and painful servant of Jesus Christ, Mr. <hi>Hugh Thompson</hi> sometimes Minister in <hi>Dorchester,</hi> and afterwards in the Isle of <hi>Wight,</hi> was born in <hi>Dorchester:</hi> On whom, his parents were pleased to bestow a Li<g ref="char:EOLhyphen"/>beral education, first training him up at School, under the instruc<g ref="char:EOLhyphen"/>tions of that learned School-master, Mr. <hi>Hallet</hi> of <hi>Bridport</hi> in the County of <hi>Dorset,</hi> afterwards in the University of <hi>Oxford,</hi> where after some time he became Student of <hi>Christ</hi>-Church, in which place he approved himself equal to most of his own standing; being well esteemed for his Vertue and Learning, by the most judicious contemporaries of his acquaintance. When he had spent about 9 years in <hi>Oxford</hi> (being a Master of Arts) the Govern<g ref="char:EOLhyphen"/>ment of the Church returning again to Episcopacy, and confor<g ref="char:EOLhyphen"/>mity strictly required of all that would hold any University-pre<g ref="char:EOLhyphen"/>ferments, it gave him occasion to study the points then in contro<g ref="char:EOLhyphen"/>versy; this he did impartially (being loth to lose his Fellow<g ref="char:EOLhyphen"/>ship) both by studying such books as might afford him light in those matters, as also by conversing such men as had studied them most conscientiously: But after all his endeavours being un<g ref="char:EOLhyphen"/>satisfied in his judgment, and not able <hi>(salvâ conscientiâ)</hi> to yield the Conformity required, quitted his place, and therewith the University; returned to <hi>Dorchester,</hi> the place of his Nativity, where he continued diligently imploying himself in the study of Divinity; frequently Preaching to a Congregation, whereof the reverend and learned Servant of Christ, Mr. <hi>William Ben</hi> was Pastor; (to whom he joyned himself in affinity by the Marriage of his Daughter) among which people he obtained great accep<g ref="char:EOLhyphen"/>tance, and approbation as to his Ministerial qualifications, be<g ref="char:EOLhyphen"/>ing no less esteemed by such judicious Ministers as were acquaint<g ref="char:EOLhyphen"/>ed with him; by whose recommendation 'twas that a Congre<g ref="char:EOLhyphen"/>gation in <hi>Bristol</hi> (commonly assembling themselves in the Castle) gave him an invitation to that City, in order to the Exercise of his Ministry. This their design they hardly effected, by reason of the loathness of that people in <hi>Dorchester</hi> (among whom he had long laboured) to quit their interest in him; and therefore to encourage him offered no small outward advantages, would he have abode among them; but he apprehending his Call to be clear,
+<pb n="6" facs="tcp:35720:4"/> in conscience of duty to God (waving all outward considerati<g ref="char:EOLhyphen"/>ons,) removes himself and family to <hi>Bristol,</hi> whither he came about the year 1670, where ever since he laid out himself to the utmost in the discharge of his Ministerial work, Preaching thrice a week [so that he had not much time for pleasures as the Pamphlet doth insinuate; except they mean, that Preaching which was doing hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fathers work was his pleasure] The Lord was pleased wonderfully to succeed his labours in the Con<g ref="char:EOLhyphen"/>version of some, and Edification of others; so that very many will have cause for ever to praise the Lord for his coming to <hi>Bristol:</hi> Indeed God had given him a special dexterity rightly to divide the word of truth; He made it his business to feed the flock of God over which the Holy Ghost had made him overseer; not with the Chaffy inventions of his own brain, but with the whole<g ref="char:EOLhyphen"/>some truths of the Gospel, the Savour whereof he himself had tasted: He knew right well how to give each one his Portion; God gave him a great place in the hearts of all his people: Yea his conversation was so holy, harmless, and unblameable that the worst of his adversaries had not whereof to accuse him (in his life-time) save in the matters of his God; he was more especially strict, and eminent in the exercise of Temperance; contenting himself without eating or drinking till dinner every day, and therefore the Charge of intemperance fastened on him in the Nar<g ref="char:EOLhyphen"/>rative seems most injurious. He did much work in a little time, there being few of the greatest and deepest truths of the Gospel which he had not clearly, briefly, and most practically unfolded, to the great satisfaction of his hearers.</p>
+            <p>It pleased God partly through the prudence, peaceableness, and moderation of the former Reverend and very learned Bishop of <hi>Bristol,</hi> and partly by the Kings Gracious Declaration and Licence that he passed the most part of his time in <hi>Bristol,</hi> in the exercise of his Ministry, without any Molestation; even then when other places were disturbed; and so had done probably to this day, had not the forward zeal of the present Bishop been let loose against him; who no sooner was come hither, but he began to be so liberal of his visits, that with those little Artifices and restless Instigations, he provoked the civil Magistrates (who till then had granted us all the Peace and Liberty we could desire) to disturb our Assemblies, and to put the laws in Execution against our Mini<g ref="char:EOLhyphen"/>sters, and particularly that of Corporations, as the probablest Ex<g ref="char:EOLhyphen"/>pedient
+<pb n="7" facs="tcp:35720:4"/> to destroy our Meetings, and that he might give the most effectual assistance to this work, substitutes as many of his Clergy as he could prevail with as Informers, (there being few others found at that time vile enough for so base a work,) to visit our Meetings, (both upon Sabbath and week-days) and swear against our Ministers in order to their imprisonment. The Par<g ref="char:EOLhyphen"/>sons imployed against the Castle-meeting whereunto Mr. <hi>Thomp<g ref="char:EOLhyphen"/>son</hi> related, were Mr. <hi>Heath</hi> and <hi>Godwin;</hi> and to shew how par<g ref="char:EOLhyphen"/>ticular an enmity he bore against Mr. <hi>Thompson,</hi> caused him to be the first Minister convicted in the City; upon which Conviction the fine of twenty pound was inflicted on him, and warrants for distress issued out, in order to the avoiding whereof, he was forced for several weeks before his Apprehension to keep fast his doors: the Constables were often questioned why distress was not taken, who still replied that his doors were always kept shut; this taking so ill effect, the next plot was laid to seize his person; which that it might be the more effectually compassed, some civil and military Officers besides Ecclesiasticks combine in order to it; and upon Wednesday the 10 of <hi>February</hi> the Bishop together with four Clergy-men, <hi>viz.</hi> Mr. <hi>Williamson, Pledwel, Heath,</hi> and his own Chaplain, two Justices of the Peace, one Captain of the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> together with some other military Officers, came all together to the Meeting, where he was preaching, to apprehend him; some of his hearers (willing to have secured his Liberty till the next Lords day when 'twas judged the other Nonconforming Ministers would be apprehended) understanding his danger shut the doors of the Meeting; about which together with the said Officers many assemble, whence the disturbance through noise and knocking being so great that he could not proceed, was forced to desist; and upon the perswasions of divers, at another door escaped into a house adjoyning to the Meeting-place. After they had very rudely dispersed the assembly, (taking as many names as they would) and still continuing their inquiry after the Mini<g ref="char:EOLhyphen"/>ster, a boy that saw his going into the said house, being an appren<g ref="char:EOLhyphen"/>tice to a Singing-man of the Colledg, betrayed him into their hands, for which Judas received from the Bishop a six-penny re<g ref="char:EOLhyphen"/>ward. He is no sooner found but a great acclamation is made; and he presently carried to the Mayor's. After he came there, 'twould be too tedious to relate all the passages, which proceeded between the Justices, the Bishop and him, how he was baited by
+<pb n="8" facs="tcp:35720:5"/> the Clergy for some hours; into what extravagances of passion and rage the Bishop brake forth divers times, as did appear by the bitter language uttered, and many reviling titles put upon Mr. <hi>Thompson,</hi> such as seditious Villain, factious fellow, Sirrah, <hi>&amp;c.</hi> that he deserved to stretch a Halter and the like; to which he re<g ref="char:EOLhyphen"/>plied (after he had modestly rebuked him for his unbridled passi<g ref="char:EOLhyphen"/>on,<note place="margin">For a Bishop ought not to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> as utterly unbecoming a Gospel-Bishop) Sir (said he) Ma<g ref="char:EOLhyphen"/>ster is my title by the law of the Land; for I am a Master of Arts of the University of Oxford; after a long argument, 'tis conclud<g ref="char:EOLhyphen"/>ed he must away to Goal, as being found in a Corporation after a former Conviction, according to the Oxford-act, unless he would take the Corporation-Oath; which being tender'd he soon refu<g ref="char:EOLhyphen"/>sed, whereupon his <hi>Mittimus</hi> is presently made: he moved the Ju<g ref="char:EOLhyphen"/>stices that it being now late, he might be permitted to lie at home that night, to which the Mayor seem'd willing, and spake to the Bishop about it, who in great wrath rose up and said, <hi>Rebel, Dog,</hi> away to Jail with him, that is the fittest place for him; to whom he replied, that he feared not a prison, but would as wil<g ref="char:EOLhyphen"/>lingly go (if sent) as home to bed whereupon he is forthwith sent to prison: during this argument several of the Parsons be<g ref="char:EOLhyphen"/>haved themselves very insolently towards him; especially <hi>Pledwel</hi> and <hi>Heath</hi> who were placed at each hand of him, catching at his words, and jearing at him. <hi>Pledwel</hi> did often insinuate his ina<g ref="char:EOLhyphen"/>bility to defend his practice; to whom he turning himself said, Sir, <hi>Tolle legem &amp; fiat Certamen;</hi> which he had no sooner spoken but the Parson (supposing he had now sufficient advantage against him) applies himself to the Bishop, charges him with speaking seditious words, repeats the words, which he thought could signify no other thing than that he would have the laws removed, that so they might fight it over again: the Bishop was of the same mind, ac<g ref="char:EOLhyphen"/>quaints the Justices with the seditious words; they challenged him for it, he owned the words, and said they were the words of <hi>Ambrose</hi> to <hi>Valentinian</hi> the Emperor in like case, and therefore (said he) I may well say the same to Mr. <hi>Pledwel;</hi> and I intend not <hi>certamen bellicum,</hi> but all that I mean is this, let but the Law lie by, against which I must speak, if I plead for my own Prac<g ref="char:EOLhyphen"/>tice; and I fear not to dispute with him the whole controversy be<g ref="char:EOLhyphen"/>tween us. After they had canvased a while the seditious words, Mr. <hi>Hellier</hi> laughing at <hi>Pledwell,</hi> said, Dost thou not know that <hi>cer<g ref="char:EOLhyphen"/>tamen</hi> signifies something else besides fighting, and quoted a verse
+<pb n="9" facs="tcp:35720:5"/> out of <hi>Virgil, die mihi quo pignore certes,</hi> and thereupon that dispute ended.</p>
+            <p>There were some passages between the Justices and him that were remarkable.</p>
+            <p>One of the Justices told him he had broken the law; to whom he answered, Sir, I am here to suffer, and so the law will be satisfi<g ref="char:EOLhyphen"/>ed; I have not broken the Law of God in what I have done quoth he, and that I am ready to maintain against any who shall deny it; which he said to try the Bishop, whether he would take up the argument: but he thought fit notwithstanding to let it a<g ref="char:EOLhyphen"/>lone. You were best say (said the Justice) that the Kings Laws are against the Law of God. Sir, said he, I said no such thing, you say I have broken the Law of man, and I say that I have not broken the Law of God, which I still stand by. The Justice answered in going a<g ref="char:EOLhyphen"/>gainst the Law of the King you go against the Law of God, because the Law of God requires subjection to the Law of the King. He told him he denied his argument; Scripture tells us, that we must o<g ref="char:EOLhyphen"/>bey men only in and for the Lord, which limitation being admit<g ref="char:EOLhyphen"/>ted, I still assert (said he) that I have not broken the Law of God, though I have the Law of man: What's that? the Bishop steps up and said who is that interprets Scripture? that, Sir, do I, said he; thou interpret Scripture, said the Bishop, it is my work (said he) so to do as I am a Minister of Christ. Thou a Minister of Christ, said the Bishop! I am (said he) a scriptural Bishop and do assert it; at which many of their party laughed; but he told them, he valued not their laughing, but owned what he had said and was ready to prove it. He was also charged by one of them, with his being a Thief and a Robber, as not coming in at the door; to whom he replied that in case he searched into the true meaning of that Text, he would find that he came in by the door there mentioned. The same challenged him for going about to set up Calves at <hi>Dan</hi> and <hi>Bethel,</hi> and following his own fancy; to which he said, Sir, the Calf was uninstituted Worship, which I do disown, I am for that worship only which the Word of God re<g ref="char:EOLhyphen"/>quires, so that the Calf is not mine, let them have it to whom it belongeth.</p>
+            <p>One of the Justices asked him, how he came to <hi>Bristol?</hi> he told him he had his call from God so to do: God, said the Bishop, bring thee hither, nay the Devil brought thee hither. Sir, said he, I wonder you are not ashamed of such passion, it's exceedingly
+<pb n="10" facs="tcp:35720:6"/> misbecoming you; I say, Sir, God brought me hither, and I have reason to conclude it, because he hath owned me here, having done good by me. All the good thou hast done (quoth the Bi<g ref="char:EOLhyphen"/>shop) has been to draw people into Sedition and Rebellion. Sir, said he, God hath (Blessed be his name) made use of me to convert some, and to build up others, and that is good.</p>
+            <p>These are the most remarkable things that passed at the Mayors. Well! he is brought to <hi>New-gate</hi> that night, where he remained in perfect health for the space of fourteen days, as many scores can testify from his own mouth, (and therefore he did not complain within three days after his Commitment as in the Keepers <hi>Affi<g ref="char:EOLhyphen"/>davit</hi>) for he was committed the tenth of <hi>February,</hi> and on the 25th. of the same moneth grew into some indisposition of Body, which he bore up under, that and the next day, when at night finding himself to grow worse, he sent for <hi>Dr. Chancy</hi> his usual Physician, who no sooner came and saw him but judged his case would prove dangerous, and therefore moved immediately that indeavours might be used to procure his removal into some Chamber convenient for a person so distempered. A person of Quality there present offered to go to the Sheriff with the Dr. in order thereunto; they go together to Sheriff <hi>Wharton;</hi> to whom they represent Mr. <hi>Thompsons</hi> condition, and request that he might be made a prisoner in a fit room for a sick man to lie in, and for his security they offer 500 <hi>l.</hi> Bond, that he should be a true Prisoner to any such room, that they should have access to him, and remand him at pleasure; and that he should not Preach in the mean time. The Sheriff is inclin'd to grant their desire, but withall signifies how fearful he was of incurring prejudice thereby, especially from the Bishop; who he said kept a strict watchful eye upon them; however he said he would do what he could the next morning to fulfil their desire. They told him his case was dangerous and did admit of no delay, what could be done for his help must be done speedily, and therefore they desired his answer this night; whereupon they propounded to go to Sir <hi>John Knight,</hi> and have his advice in the matter; the Sheriff liked it well, and was pleased to go with them; to whom when they had related the matter, declared his unwillingness to advise any thing, or to have any hand in his removal, fearing lest their granting his request might be construed a fallacious imprisonment, and so might prove matter of great trouble and damage to the
+<pb n="11" facs="tcp:35720:6"/> Sheriffs, to whom they replied that in case the account of his sick<g ref="char:EOLhyphen"/>ness were fallacious, then might his removal be esteemed a fallaci<g ref="char:EOLhyphen"/>ous imprisonment; but if not, then no Charitable man could put that perverse construction upon it; and in case they doubted that, 'twas propounded that some Physician might be sent to visit him (in whom they could confide) and in case he judged him in a condition fit for that place, that then he should abide there still. Well! all they could say availed nothing, all they could gain was, that in case the Bishop would grant their desire they would not oppose it, and therefore wished them to go to the Bishop about it: They replied, Sirs, you are the proper persons for us to apply our selves unto, and therefore if you deny our request, 'tis not to be expected that the Bishop should grant it; neither shall we go to him about it who 'tis probable will rejoyce to hear that he is sick in Goal, who he said deserved to stretch a Halter before he came thither: Besides, they thought to go to him about the Goal would be no less affront to the Sheriffs, than the Bishop might account it for any to come to the Sheriffs about Governing the Church. When all arguments proved fruitless, they desist their motion, and return to the poor sick-man with the unwelcome tidings that their request could not be granted.</p>
+            <p>Howbeit that the Bishop may not scape scot-free in this matter also, Sir <hi>John Knight</hi> was pleased the next day to go to him him<g ref="char:EOLhyphen"/>self about Mr. <hi>Thompsons</hi> removal; to whom he answered (as one of the Sheriffs reported) that Mr. <hi>Thompson</hi> was committed by the Law to the common Goal for six moneths, and that there he should abide, and in case the Sheriffs should attempt his release, they should answer it at the Severity of the Law. Well! when his removal was utterly hopeless, all means imaginable are used for his recovery; and the next day which was <hi>Saturday</hi> his Dr. prescribed him a Vomit, which he judged the most rational means to prevent the progress of his Fever, &amp; the more necessary because he knew him to have a soul stomach, had given him Vomits often before, found him very much disposed to Vomit, complaining of an excessive pain in his head; the Vomit wrought very well, giving him five or six Motions, as well as any that ever he took, therefore 'tis won<g ref="char:EOLhyphen"/>der the keeper should reflect upon that with censure as contribu<g ref="char:EOLhyphen"/>ting to his death; 'tis much to be admired how the keeper should attain so much Judgment in Physick, had there been any just re<g ref="char:EOLhyphen"/>flection or blame to have been made upon the Vomit. 'Tis very
+<pb n="12" facs="tcp:35720:7"/> strange that all the three Physicians afterwards coming in to ad<g ref="char:EOLhyphen"/>vise for his health, should so unanimously approve of it: But nei<g ref="char:EOLhyphen"/>ther that nor any thing else must prove available when God will contradict it. So 'twas with him, for notwithstanding all the means that could be used, his Fever grew upon him daily till the fourth of <hi>March,</hi> when about Mid-night he gave up the Ghost to the great Lamentation of many in <hi>Bristol;</hi> as appeared by the ma<g ref="char:EOLhyphen"/>ny mournful Countenances, and weeping eyes of those that atten<g ref="char:EOLhyphen"/>ded him to his funeral; which was the next day solemnized from <hi>New-gate,</hi> in the Church-yard of <hi>Philips,</hi> thousands of his friends accompanying his Corps to the Grave.</p>
+            <p>Now, as to his usage in the Goal, 'tis acknowledged that he had the fairest Room in the house, a good Feather-bed to lie on, the free acccess of his friends, and as good entertainment as he could have in that place; so that had not Mr. <hi>Hobson</hi> sworn it, I should hardly have believed that any person ever reported that he was put in a Dungeon, denied necessary provisions, forc'd to suck li<g ref="char:EOLhyphen"/>quor through a Tobacco-pipe, partly poison'd, and partly starved to death, and this through the Bishops order, and directions; for till I saw this <hi>Narrative</hi> I never heard of any such report, and 'tis much if 'twere so commonly discoursed and affirmed as the paper asserts, that none should hear it but themselves. And by my con<g ref="char:EOLhyphen"/>sent if the authors of any such lying report can be produced, they shall be excommunicated the fellowship of Nonconformists for the time to come, and turned over to the Communion of him that wrote the Preface to the Narrative; but I believe the report was raised concerning some others, that were imprisoned upon the point of Religion, and is only fastened upon the Ministers to in<g ref="char:EOLhyphen"/>validate it.</p>
+            <p>Now though it be utterly false if applyed to Mr. <hi>Thompson,</hi> yet is there much truth in it with reference to some others, com<g ref="char:EOLhyphen"/>mitted arbitrarily by Mr. <hi>Hellier</hi> the Attorney to <hi>Newgate</hi> (some<g ref="char:EOLhyphen"/>time after) as being found at Conventicles, and refusing to give their names; which <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llier</hi> may easily be proved the Composer of that <hi>Narrative,</hi> to which Mr. <hi>Hobson</hi> swore.</p>
+            <p>To give light into this matter, 'tis requisite to give the Rea<g ref="char:EOLhyphen"/>der a particular account of it, as 'twas given by the persons con<g ref="char:EOLhyphen"/>cerned, which was thus: <hi>March</hi> 14th, Divers persons were by Mr. <hi>Hellier</hi> committed to <hi>Newgate</hi> from several of the Meetings; some whereof were after some hours released again upon <hi>Helliers</hi> Note
+<pb n="13" facs="tcp:35720:7"/> to the Keeper, others were kept prisoners for some days: the names of which were <hi>Moses Jacoc, John Taylor, Robert Coleborn,</hi> and <hi>Roger Bagnal,</hi> who were entertained after this manner; When 'twas about seven of the Clock at Night (after their Commitment) the Keeper asked them what Lodgings they would have, they demanded a free Prison; whereupon he brought them into the Westhouse, one of the worst places in <hi>Newgate,</hi> where was a low, damp, earthen Floor, denying them Candle and other necessary Refreshments: for <hi>Roger Bagnal</hi> ha<g ref="char:EOLhyphen"/>ving two Candles and a bottle of Brandy sent him, to fortifie them against the cold and dampness of the Hole, the Keeper kept away the Brandy from him, and one of the Candles, and after<g ref="char:EOLhyphen"/>wards the other also: and when some of the Prisoners had af<g ref="char:EOLhyphen"/>ter that lent them a Candle to read a Chapter by, the Keeper came and took that also away, leaving them all Night without straw or any Bed to lie upon, or a Seat to sit on; had not the other Prisoners lent them a Fourm, and late it was the next Mor<g ref="char:EOLhyphen"/>ning before the Door was opened to let them out among the rest of the Prisoners. When one of the Debtors informed the Ministers in <hi>Prison</hi> of the Jaylors unkindness to these men, he also was lockt up in that loathsome place for his pains. This story is very like to be the ground of the former Report, which the Keeper hath translated to Mr. <hi>Thompson.</hi>
+            </p>
+            <p>Now though the treating of Mr. <hi>Thompson</hi> and the other Mini<g ref="char:EOLhyphen"/>sters was managed at a far better rate than this, yet hath he no great cause to boast of his Christian tenderness exercised towards them, when he considers the excessive rates he makes them pay for their mean accommodations, their bare lodging costing some of them Ten, the least Seven shillings a week, which is far more than enough to pay for all the kindness wherewith they were in<g ref="char:EOLhyphen"/>dulged, and double to what his Predecessors had done in that place. And though 'tis true Mr. <hi>Thompson</hi> had the use of the fairest Lodgings in the Goal, yet how much that very Room is annoyed with a most nasty Jakes, multitudes in this City can sufficiently testifie, which if he himself be a competent Judg, did contribute much both to the beginning and encrease of his Distemper, which he said to many Credible Witnesses.</p>
+            <p>Now to finish this <hi>Narrative,</hi> 'twill not be amiss to give you an account of some of the last words of this Eminently pious and learned Servant of the Lord, as they were written from his mouth by his fellow-Prisoners.</p>
+            <pb n="14" facs="tcp:35720:8"/>
+            <p>He did often most affectionately declare what great delight he took in the Company of his fellow-Prisoners; but said he, as I was sent hither first, so I shall be released before you; as for those who sent me hither and refused to remove me (naming the Bi<g ref="char:EOLhyphen"/>shop and some others) though they have been barbarously cruel to me, yet do I from my heart forgive them: I should be glad, (said he) to meet them in Heaven who cast me into Prison, which is now like to be my death; the Lord work effectually upon them by his free grace to bring them thither at last.</p>
+            <p>Then he divinely discourst how he had of late been contempla<g ref="char:EOLhyphen"/>ting what it was to enjoy God: and what a mighty Change death will make in a moment upon a gracious Soul, which goes first into the hands of Angels, and by them into the immediate presence of God.</p>
+            <p>I have (said he) endeavoured to live the life of Faith, have been by grace preserved from gross sins, though not without ma<g ref="char:EOLhyphen"/>nifold infirmities which have caused trouble. But whatsoever breaches have been made on Sanctification, I have kept Faith at work for Justification, and that's my comfort; there is nothing in the world, which I have valued in comparison of Christ, and I have fixed my only hope on his Satisfaction and Merits: though I have not enjoyed much full assurance, yet have I not been with<g ref="char:EOLhyphen"/>out Spiritual Refreshments.</p>
+            <p>Apprehending the hour of his dissolution near at hand, he called for his Fellow-prisoners, whom when he observed to weep bitterly on his behalf, said, Sirs, <hi>I did not send for you for this work, pray make my being here as comfortable as you can, that I may speak to, and for the Lord.</hi>
+            </p>
+            <p>Therefore tell me which is the shortest and surest way to know whether we are passed from death to life? Mr. <hi>Weeks</hi> replied, I will give you the same Answer which Mr. <hi>Ben</hi> (your Father-in-law) gave me to the same Question, <hi>He that hath the Son hath life:</hi> Hereupon this blessed departing Saint with a calm and com<g ref="char:EOLhyphen"/>posed Spirit said, <hi>To have the Son is to believe on him, and Faith is a real willingness to receive an offer'd Christ upon offer'd terms; now these terms are somewhere propounded in the holy Scriptures, there is a more general word of Promise, but the Sinner not looking on that as Security enough, takes hold of it for himself; takes Christ out of the promise, and applies him to his Soul, by which there comes to be a two-fold change,</hi> viz. <hi>Moral and Physical, thereby the Soul hath
+<pb n="15" facs="tcp:35720:8"/> both title and meetness; by being brought into the Covenant, and having the divine Image imprest upon him: all which is of Christs working. Now</hi> (said he) <hi>by the free, admirable, and distinguishing grace of God, I have experienced both these.</hi> And sometimes after said, <hi>The Bloud of Christ is of infinite value, enough to save all to whom 'tis applied; but it shall save none who apply it not by Faith. This I have spoken divers times in this City; and now I am to preach a departure-Sermon in this Prison,—Whatsoever I did in Worship, I am able to justifie, (as I offered when I was before the Mayor:) my work in</hi> Bristol <hi>was soon done; If any should think that 'twas hu<g ref="char:EOLhyphen"/>mour which brought me into this suffering, 'tis strange; 'Tis an odd conceit that any man for humour should cast himself into Prison to die there. God knows what use he will make of this Providence: The Lord be with my Brethren, and grant they may go out of Prison in health, and with enlarged hearts; that they may have time for hearts, and do more good. I know</hi> (said he) <hi>that God is able to raise me up, and I am willing to live longer, if he have any more work for me to do: and as for my bonds, I bless God for them; and if I had known when I came in that I should die here, I would have done no otherwise than I have done. The time will come when I shall be freed from the aspersion of Faction.</hi>
+            </p>
+            <p>He shewed a more especial care towards that Congregation to which he was related, in giving them serious Counsel in refe<g ref="char:EOLhyphen"/>rence to their choice of another Pastor, and no less weighty ad<g ref="char:EOLhyphen"/>vice did he give several Christians when he took his solemn fare<g ref="char:EOLhyphen"/>well of them, advising them to cleave to God, his Truth, Ways, and Institutions, to get into a condition fit to die.</p>
+            <p>He desired (drawing on to death) that his Fellow-Prisoners would not forsake him: <hi>For 'tis good</hi> (said he, as once Mr. Knowls said) <hi>to die in good Company.</hi>
+            </p>
+            <p>At length (being spent) while Mr. <hi>Weeks</hi> was by Prayer commending his Soul into the hand of <hi>Jesus Christ,</hi> he expired, which was <hi>March</hi> the 4th, about 12. of the Clock at night.</p>
+            <p>Now by this time (courteous Reader) mayest thou be able to pass a true Judgment upon the <hi>Bristol-Narrative,</hi> and whether the causes therein assigned for Mr. <hi>Thompsons</hi> Death were real or pretended only.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:35720:9"/>
+            <pb facs="tcp:35720:9"/>
+            <head>In obitum Domini Johannis Thompson, qui pro Christo &amp; sub ipsius Diplomate, post<g ref="char:EOLhyphen"/>quam Invidia &amp; Sitientis malitiae rabiem pie sustinuit, in Carcere <hi>qui Bristoliae est,</hi>
+               <note place="margin">Bristoliensis.</note> feliciter efflavit Animam, 4<seg rend="sup">o</seg> Martii, 1674.</head>
+            <lg>
+               <l>VVHat Mortal can the shock of Death defend,</l>
+               <l>And his short breath beyond time's reach extend?</l>
+               <l>All men their Birth-days and their Exits have;</l>
+               <l>Are born, and breath, then drop into the Grave;</l>
+               <l>Pant a few days, then fainting gasp and die;</l>
+               <l>Moulder to Earth, and undistinguish'd lie.</l>
+               <l>Mankind, in this respect, no difference know;</l>
+               <l>Impartial Death to none do's favour show:</l>
+               <l>When, with exalted Light, the Morning Sun,</l>
+               <l>Starts forth, and doth his hasty Progress Run,</l>
+               <l>All feel the influence of his Genuine Rays,</l>
+               <l>And suck the Vertue, that his heat Conveys:</l>
+               <l>So Fate lops off the Sinner, with the Just;</l>
+               <l>All, without form, lie blended in the Dust:</l>
+               <l>Where (to our loss) Dear <hi>Thompson,</hi> lately fell;</l>
+               <l>And quitting life, do's now in silence dwell:</l>
+               <l>Within the Bowels of Earth's gastly Womb,</l>
+               <l>Link'd to the Sable Chambers of a Tomb:</l>
+               <l>Not dead, but slumbring, with a watchful Ear,</l>
+               <l>He longs the All-surprizing Trump to hear;</l>
+               <l>When Heaven shall like a Parchment Scrole retire,</l>
+               <l>And in the Arms of Rapid flames Expire:</l>
+               <l>That his refin'd Immortal Eyes may see,</l>
+               <pb facs="tcp:35720:10"/>
+               <l>Christ then inthrou'd, and of his Army be:</l>
+               <l>Thy worth, DEAR SAINT, was to the World unknown;</l>
+               <l>And ripe, by Grace, for bliss and Glory grown.</l>
+               <l>JEHOVAH call'd, We therefore must submit;</l>
+               <l>His Converse for the first-born Church was fit:</l>
+               <l>But, to advantage his aspiring flight,</l>
+               <l>And more endear him to Immortal Light,</l>
+               <l>God to the Cross his yielding Body gave,</l>
+               <l>And hands him through a Prison, to his grave:</l>
+               <l>The Venom'd Lashes of unchristian Rage,</l>
+               <l>Could not his active Duty dis-ingage:</l>
+               <l>Nor blast the Solace of his quiet mind,</l>
+               <l>He dy'd in peace, though to a Jayl confin'd:</l>
+               <l>Whil'st men resolv'd he should a Pris'ner be,</l>
+               <l>And to close bondage did his Life decree;</l>
+               <l>A <hi>Liberare</hi> issues from the Skie,</l>
+               <l>And gives that freedom, which his foes deny:</l>
+               <l>His suff'ring turns their fury into shame,</l>
+               <l>And spreads the Odour of his precious Name:</l>
+               <l>Which will be fragrant Ointment in the dust,</l>
+               <l>When cankred [minds] shall in Oblivion rust.</l>
+               <l>They that to <hi>Newgates</hi>-stake the Pious draw,</l>
+               <l>Transcribe in bloud fierce <hi>BONNERS</hi> faggot-law;</l>
+               <l>When Innocence a slaughter'd VICTIM lies,</l>
+               <l>Blest Souls leave Earth, and harbour in the Skies:</l>
+               <l>When floating Shipwracks of the Just appear,</l>
+               <l>We may with Dread impending Judgments fear:</l>
+               <l>Such crying Omens for attention call,</l>
+               <l>Remove the Pillars, and the Fabricks fall.</l>
+               <l>Happy Corruption! Center'd in the clay,</l>
+               <l>Where no <hi>Informer</hi> can thy life betray:</l>
+               <l>Those Clergie-Zealots sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtly must attend</l>
+               <l>Their Change, and to the Gloomy-shades descend.</l>
+               <l>When their Wing'd Souls stand tip-toe to be gone,</l>
+               <l>And can no more their numbred days prolong:</l>
+               <l>Will Death be Hector'd by a Statute-Law?</l>
+               <l>Or informations Death-bed terrors awe!</l>
+               <l>No, surely no; such bated shifts are vain;</l>
+               <l>Their Heart-bloods must the fatal Dagger stain.</l>
+               <l>Behold! the Honour that his Relicts have;</l>
+               <pb facs="tcp:35720:10"/>
+               <l>His many friends tie <hi>New-gate</hi> to the Grave.</l>
+               <l>Thousands of Mournful looks make up the train,</l>
+               <l>And from their Eye-lids wet the streets like Rain;</l>
+               <l>In slow, and trembling paces walking on,</l>
+               <l>As if they all had to Sepulchres gone:</l>
+               <l>Pouring their Spirits out by silent Groans,</l>
+               <l>Venting affections in continual Moans;</l>
+               <l>With Sighs, and half-born words not understood:</l>
+               <l>Whilst every Eye-ball swells into a flood</l>
+               <l>Of briny-tears, and down each visage Rouls</l>
+               <l>The pregnant Symptoms of our troubled Souls:</l>
+               <l>Pale sorrow creeps like Blood through all our parts,</l>
+               <l>Has chill'd our Vitals, and unhing'd our Hearts.</l>
+               <l>Thus humane passions by cross Engins move;</l>
+               <l>His Crown our loss, his Joys our Torments prove:</l>
+               <l>Why do we mourn, and weep our Christals dry?</l>
+               <l>Why do we send up Murmurs to the sky?</l>
+               <l>Deploring him that sees his Saviour reign;</l>
+               <l>CHRIST was his Life, and is in Death his Gain:</l>
+               <l>Snatch'd from the storms of malice here below,</l>
+               <l>To sweet repose, where endless pleasures flow;</l>
+               <l>And lasting comforts, from th' Almighties face,</l>
+               <l>Darts perfect gladness, through the hallowed place;</l>
+               <l>Fill'd with the praises of each Ravisht Saint,</l>
+               <l>That never to a whispering period faint;</l>
+               <l>But their Harmonious Souls with glory crown'd,</l>
+               <l>Proclaim Gods Love, with an eternal sound:</l>
+               <l>And their seraphick Notes, concording sweet,</l>
+               <l>Breath ALLELƲJAHS, at their MAKERS feet:</l>
+               <l>His fame alone the Heavenly Host designs</l>
+               <l>To sing, who in abstracted Glory shines,</l>
+               <l>With an extended Everlasting blaze:</l>
+               <l>'Tis there BLEST THOMPSON, must for ever gaze;</l>
+               <l>Basking, and smiling in unbounded Joys,</l>
+               <l>Where full Fruition, Faith and Hope destroys:</l>
+               <l>LISTEN a-while, methinks his voice is loud,</l>
+               <l>With the new SONNETS of the Heavenly crowd:</l>
+               <l>The lofty measures of his tongue go High,</l>
+               <l>And Thunder in that great Solemnity;</l>
+               <l>All Praise and Glory doth to thee belong,</l>
+               <pb facs="tcp:35720:11"/>
+               <l>Vengeance is thine, thou wilt, O LORD, how long?</l>
+               <l>Thus DEAREST THOMPSON, is imploy'd above,</l>
+               <l>In the Eternal work of Praise and Love,</l>
+               <l>Freed from his restless and laborious pains,</l>
+               <l>Those fix'd Companions of his pious brains:</l>
+               <l>What have afflictions then with him to do?</l>
+               <l>Why do's our Love his Soul with sobs pursue?</l>
+               <l>Let us rejoyce upon his burial-day:</l>
+               <l>Let us in gladness, our last kindness pay;</l>
+               <l>And (with ten Thousand tears for Sacrifice)</l>
+               <l>Inscribe this <hi>Motto</hi> where his body lies.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Here sleeps beneath the surface of this Pile,</hi>
+               </l>
+               <l>
+                  <hi>A true NATHANIEL, spotless, without guile.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
